@@ -1,0 +1,3 @@
+my new test file for the purpose to be committed into github repository.
+
+A new line in my new test file
